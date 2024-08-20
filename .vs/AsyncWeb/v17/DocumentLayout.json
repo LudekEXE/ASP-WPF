@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows10\\source\\repos\\AsyncWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB59794-F0F5-423D-A1A4-A632F43B8AA9}|AsyncWebDotUser\\AsyncWebDotUser.csproj|c:\\users\\windows10\\source\\repos\\asyncweb\\asyncwebdotuser\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB59794-F0F5-423D-A1A4-A632F43B8AA9}|AsyncWebDotUser\\AsyncWebDotUser.csproj|solutionrelative:asyncwebdotuser\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052D211A-A7DA-4A7B-B85F-930794BB9BF8}|AsyncWeb\\AsyncWeb.csproj|c:\\users\\windows10\\source\\repos\\asyncweb\\asyncweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052D211A-A7DA-4A7B-B85F-930794BB9BF8}|AsyncWeb\\AsyncWeb.csproj|solutionrelative:asyncweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB59794-F0F5-423D-A1A4-A632F43B8AA9}|AsyncWebDotUser\\AsyncWebDotUser.csproj|c:\\users\\windows10\\source\\repos\\asyncweb\\asyncwebdotuser\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FB59794-F0F5-423D-A1A4-A632F43B8AA9}|AsyncWebDotUser\\AsyncWebDotUser.csproj|solutionrelative:asyncwebdotuser\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB59794-F0F5-423D-A1A4-A632F43B8AA9}|AsyncWebDotUser\\AsyncWebDotUser.csproj|c:\\users\\windows10\\source\\repos\\asyncweb\\asyncwebdotuser\\asyncwebdotuser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FB59794-F0F5-423D-A1A4-A632F43B8AA9}|AsyncWebDotUser\\AsyncWebDotUser.csproj|solutionrelative:asyncwebdotuser\\asyncwebdotuser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsyncWebDotUser.csproj",
+              "DocumentMoniker": "C:\\Users\\Windows10\\source\\repos\\AsyncWeb\\AsyncWebDotUser\\AsyncWebDotUser.csproj",
+              "RelativeDocumentMoniker": "AsyncWebDotUser\\AsyncWebDotUser.csproj",
+              "ToolTip": "C:\\Users\\Windows10\\source\\repos\\AsyncWeb\\AsyncWebDotUser\\AsyncWebDotUser.csproj",
+              "RelativeToolTip": "AsyncWebDotUser\\AsyncWebDotUser.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T11:40:05.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Windows10\\source\\repos\\AsyncWeb\\AsyncWebDotUser\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AsyncWebDotUser\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Windows10\\source\\repos\\AsyncWeb\\AsyncWebDotUser\\MainWindow.xaml",
+              "RelativeToolTip": "AsyncWebDotUser\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-20T09:27:50.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Windows10\\source\\repos\\AsyncWeb\\AsyncWebDotUser\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AsyncWebDotUser\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Windows10\\source\\repos\\AsyncWeb\\AsyncWebDotUser\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AsyncWebDotUser\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:27:49.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows10\\source\\repos\\AsyncWeb\\AsyncWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows10\\source\\repos\\AsyncWeb\\AsyncWeb\\Program.cs",
+              "RelativeToolTip": "AsyncWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:57:55.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
